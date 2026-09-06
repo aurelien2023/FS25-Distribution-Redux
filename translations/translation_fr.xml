@@ -49,6 +49,7 @@
         <text name="dr_title_husbandry"       text="Distribution - Élevages" />
         <text name="dr_title_markets"         text="Distribution - Marchés" />
         <text name="dr_title_help"            text="Distribution - Aide" />
+        <text name="dr_tab_distribution" text="DISTRIBUTION"/>
         <text name="dr_title_settings"        text="Distribution - Paramètres" />
         <text name="dr_title_advanced"        text="Avancé" />
         <text name="dr_title_advancedInputs"  text="Entrées avancées" />
