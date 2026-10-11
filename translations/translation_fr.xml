@@ -44,11 +44,11 @@
 
         <!-- ================= page + dialog titles ================= -->
         <text name="dr_title_overview"        text="Aperçu" />
-        <text name="dr_title_productions"     text="Distribution - Productions" />
+        <text name="dr_title_productions"     text="Distribution Redux - Productions" />
         <text name="dr_title_routing"         text="Distribution Redux - Routage" />
-        <text name="dr_title_storage"         text="Distribution - Stockage" />
-        <text name="dr_title_husbandry"       text="Distribution - Élevages" />
-        <text name="dr_title_markets"         text="Distribution - Marchés" />
+        <text name="dr_title_storage"         text="Distribution Redux - Stockage" />
+        <text name="dr_title_husbandry"       text="Distribution Redux - Élevages" />
+        <text name="dr_title_markets"         text="Distribution Redux - Marchés" />
         <text name="dr_title_help"            text="Aide" />
         <text name="dr_tab_distribution" text="DISTRIBUTION"/>
         <text name="dr_tab_productions" text="PRODUCTIONS" />
